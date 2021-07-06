@@ -1,0 +1,122 @@
+*{
+    top: 0px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.logo{
+    height: 140px;
+    padding-left: 115px;
+    width: 550px;
+}
+
+.nav{
+    margin: auto;
+}
+
+.list:hover{
+    color: rgb(243, 25, 9);
+}
+
+.list{
+    padding-inline: 16px;
+    padding-block: 25px;
+    font-family: "Open Sans", Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.heading{
+    color: white;
+    font-size: 28px;
+    padding: 3px;
+
+}
+
+.home{
+    display: inline;
+    padding-inline: 17px;
+    margin-left: 70px;
+}
+
+.container{
+    background-color: #000cff12;
+    margin: 20px;
+    border-radius: 2px;
+    /* width: 290px; */
+}
+
+.tag1{
+    position: relative;
+    display: inline;
+    height: 60px;
+    padding: 10px;
+    filter: brightness(0.9);
+    z-index: -1;
+}
+
+.tag2{
+    display: inline;
+    float: right;
+    height: 60px;
+    padding-top: 36px;
+}
+
+.tag3{
+    margin-top: 13px;
+    padding-left: 20px;
+    padding-bottom: 150px;
+    color: #888888;
+}
+
+.about{
+    padding-inline: 125px;
+    color: #888888;
+    text-align: justify;
+    font-size: 17px;
+    padding-top: 30px;
+    padding-bottom: 60px;
+}
+
+.logo2{
+    height: 187px;
+    padding-left: 115px;
+    width: 185px;
+    padding-top: 25px;
+    padding-bottom: 88px;
+}
+
+.msu{
+    padding-inline: 30px;
+    padding-bottom: 75px;
+    font-size: 25px;
+}
+
+.contact1{
+    position: relative;
+    display: inline;
+    height: 35px;
+    padding-inline: 10px;
+    padding-block: 5px;
+    z-index: -1;
+}
+
+.contact2{
+    display: inline;
+    float: right;
+    color: #888888;
+    padding-block: 12px;
+}
+
+.contact{
+    display: inline;
+    height: 55px;
+    z-index: -1;
+}
+
+.footer{
+    background-color: #03256C; 
+    color: white;
+    padding: 10px;
+    font-size: 17px;
+}
